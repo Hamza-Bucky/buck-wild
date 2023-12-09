@@ -1,0 +1,19 @@
+{
+  "name": "buck-wild",
+  "version": "1.0.0",
+  "description": "creating and testing npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hamza-Bucky/buck-wild.git"
+  },
+  "author": "Hamza Akhtar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hamza-Bucky/buck-wild/issues"
+  },
+  "homepage": "https://github.com/Hamza-Bucky/buck-wild#readme"
+}
